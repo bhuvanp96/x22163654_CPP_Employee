@@ -1,10 +1,10 @@
 version: 0.2
 env:
   secrets-manager:
-    LOGIN: prod/sonar:sonartoken
-    HOST: prod/sonar:HOST
-    Organization: prod/sonar:Organization
-    Project: prod/sonar:Project
+    LOGIN: x22163654/b61d42c9e8c18514609d9821a34217b9fe3fe9fa:sonartoken
+    HOST: x22163654/https://sonarcloud.io:HOST
+    Organization: x22163654/bhuvanp96:Organization
+    Project: x22163654/Employee_CPP:Project
 phases:
   install:
     runtime-versions:
